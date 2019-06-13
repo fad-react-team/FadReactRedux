@@ -30,6 +30,7 @@ class App extends Component {
       //   <button onClick={this.simpleAction}>Test redux action</button>
       //   <button onClick={this.addNewProduct}>Add New Product</button>
       // </div>
+      //MiliGhb Modify For Commit
       <div>
         <Statistics />
         <hr /> 
